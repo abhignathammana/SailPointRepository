@@ -1,0 +1,6 @@
+"Database Name","Report Date","Permission Group","Permission Rights","Description"
+"TEST01","20080211","ACCOUNTING","DR System:YY-Function Control:NN-BackupControl:YY","Accounting Group for PAM"
+"TEST01","20080211","IT","DR System:YY-Function Control:YY-BackupControl:YY-EMPLOYEE DB:YY","IT Group for PAM"
+"TEST01","20080211","HR","DR System:NN-Function Control:NN-BackupControl:YY-EMPLOYEE DB:YY","HR Group for PAM"
+"TEST01","20080211","FINANCE","DR System:YY-Function Control:NN-BackupControl:YY","Finance Group for PAM"
+"TEST01","20080211","ADMINISTRATORS","DR System:YY-Function Control:YY-BackupControl:YY", "Administrators Group for PAM"

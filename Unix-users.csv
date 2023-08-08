@@ -1,0 +1,4 @@
+employeeId,UnixId,app2_privileged,acct_lastLogin,app2_service,app2_inactive,Permission,userName
+1c,112,FALSE,09/17/2012 21:26:43,FALSE,FALSE,Read,RichardJackson
+1c,112,FALSE,09/17/2012 21:26:43,FALSE,FALSE,Write,RichardJackson
+

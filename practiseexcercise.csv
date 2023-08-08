@@ -1,0 +1,6 @@
+Employee Id,FirstName,Lastname,EmailID,Username,EmpStatus,ManagerID
+11612125,Abhigna,Thamma,thamma.abhigna@gmail.com,thamma.abhigna,Active,null
+11612124,Ramya,Thunga,thunga.ramya@gmail.com,thunga.ramya,Inactive,11612125
+11718645,Soumya,Busi,busi.sowmya@gmail.com,busi.sowmya,Active,11612125
+11764392,Thomas,Cook,cook.thomas@gmail.com,cook.thomas,Active,11612124
+11623485,Albert,John,john.albert@gmail.com,john.albert,Active,11718645

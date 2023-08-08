@@ -1,0 +1,11 @@
+employeeId,dbuserid,acct_lastLogin,AccessType,userName
+1a2a,100,09/17/2012 21:26:43,Read,RichardJackson
+1a2b,101,09/17/2012 21:26:43,Write,RichardJackson1
+1a2c3c,102,09/17/2012 21:26:43,Execute,RichardJackson2
+1a2c3a4a,104,09/17/2012 21:26:43,Read,RichardJackson3
+1a2c3a4a,104,09/17/2012 21:26:43,Write,RichardJackson3
+1a2c3a4d,105,09/17/2012 21:26:43,Execute,RichardJacksonAdmin4
+1a2c3a4e,106,09/17/2012 21:26:43,Read,RichardJacksonAdmin5
+1a2c3b4a,107,09/17/2012 21:26:43,Write,RichardJacksonAdmin6
+1a2c3b4b,108,09/17/2012 21:26:43,Execute,RichardJacksonAdmin7
+1a2c3a4a,104,09/17/2012 21:26:43,Execute,RichardJackson3

@@ -1,0 +1,161 @@
+employeeId,fullName,userID,department,Application,inactiveIdentity,Role
+1a,James Smith,jsmith,Executive Management,AccountPay,FALSE,
+1a2a,Mary Johnson,mjohnson,Regional Operations,AccountRec,FALSE,VP Information Technology
+1a2b,John Williams,jwilliams,Regional Operations,ShippingMan,FALSE,VP Engineering
+1a2c,Patricia Jones,pjones,Regional Operations,ExpenseRep,FALSE,VP Finance
+1a2a3a,Robert Brown,rbrown,Information Technology,OrderEntry,FALSE,Global Infrastructure Manager
+1a2a3b,Linda Davis,ldavis,Information Technology,HR-SAP,FALSE,Helpdesk Manager
+1a2a3c,Michael Miller,mmiller,Engineering,OracleFinancials,FALSE,Internal Development Manager
+1a2a3d,Barbara Wilson,bwilson,Engineering,PartnerEnablement,FALSE,Product Developer
+1a2b3a,William Moore,wmoore,Human Resources,BenefitsPortal,FALSE,Compensation & Benefits Manager
+1a2b3b,Elizabeth Taylor,etaylor,Human Resources,AccountMan,FALSE,Benefits Manager
+1a2b3c,David Anderson,danderson,Inventory,CRMPortal,FALSE,Inventory Manager
+1a2b3d,Jennifer Thomas,jthomas,Inventory,IT-SVN,FALSE,Procurement Manager
+1a2c3a,Richard Jackson,rjackson,Accounting,Hiring,FALSE,Controller
+1a2c3b,Maria White,mwhite,Accounting,AuditReports,FALSE,Accounts Payable Manager
+1a2c3c,Charles Harris,charris,Finance,AccountPay,FALSE,Data Analyst
+1a2c3d,Susan Martin,smartin,Finance,AccountRec,FALSE,Financial Planning Analyst
+1a2a3a4a,Joseph Thompson,jtohmpson,Information Technology,ShippingMan,FALSE,Helpdesk Associate
+1a2a3a4b,Margaret Garcia,mgarcia,Information Technology,ExpenseRep,FALSE,IT Database Manager
+1a2a3a4e,Christopher Clark,cclark,Information Technology,OrderEntry,FALSE,Oracle Administrator
+1a2a3b4a,Lisa Rodriguez,lrodriguez,Information Technology,HR-SAP,FALSE,DBA
+1a2a3b4b,Daniel Lewis,dlewis,Information Technology,OracleFinancials,FALSE,IT Distributed Systems Manager
+1a2a3b4e,Karen Hall,khall,Information Technology,PartnerEnablement,FALSE,Unix Administrator
+1a2a3c4a,Mark Allen,mallen,Engineering,BenefitsPortal,FALSE,Internal QA Manager
+1a2a3c4b,Betty Young,byoung,Engineering,AccountMan,FALSE,QA Analyst
+1a2a3c4e,George Wright,gwright,Engineering,CRMPortal,FALSE,Production Manager
+1a2a3d4a,Sandra Lopez,slopez,Engineering,IT-SVN,TRUE,Production Developer
+1a2a3d4b,Kenneth Hill,khill,Engineering,Hiring,FALSE,Production Test Engineer
+1a2a3d4e,Carol Adams,cadams,Engineering,AuditReports,FALSE,Staging Manager
+1a2b3a4a,Edward Baker,ebaker,Human Resources,AccountPay,FALSE,Benefits Clerk
+1a2b3a4b,Ruth Gonzalez,rgonzalez,Human Resources,AccountRec,FALSE,Compensation Manager
+1a2b3a4e,Ronald Mitchell,rmitchell,Human Resources,ShippingMan,FALSE,Employment Manager
+1a2b3b4a,Michelle Perez,mperez,Human Resources,ExpenseRep,FALSE,Employee Relations Manager
+1a2b3b4b,Anthony Roberts,aroberts,Human Resources,OrderEntry,FALSE,HR Manager
+1a2b3b4e,Sarah Campbell,scampbell,Human Resources,HR-SAP,FALSE,Recruiter
+1a2b3c4a,Jason Parker,jparker,Inventory,OracleFinancials,FALSE,Inventory Analyst
+1a2b3c4b,Kimberly Evans,kevans,Inventory,PartnerEnablement,FALSE,Receiving Analyst
+1a2b3c4e,Gary Stewart,gstewart,Inventory,BenefitsPortal,FALSE,Cost Savings Analyst
+1a2b3d4a,Jessica Sanchez,jsanchez,Inventory,AccountMan,TRUE,Cost Savings Manager
+1a2b3d4b,Timothy Morris,tmorris,Inventory,CRMPortal,FALSE,Procurement Analyst
+1a2b3d4e,Cynthia Cook,ccook,Inventory,IT-SVN,FALSE,Procurement Buyer
+1a2c3a4a,Larry Morgan,lmorgan,Accounting,Hiring,FALSE,AP Accountant
+1a2c3a4b,Angela Bell,abell,Accounting,AuditReports,FALSE,Accounts Receivable Manager
+1a2c3a4e,Frank Rivera,frivera,Accounting,AccountPay,FALSE,AR Accountant
+1a2c3b4a,Brenda Cooper,bcooper,Accounting,AccountRec,FALSE,Payroll Manager
+1a2c3b4b,Scott Richardson,srichardson,Accounting,ShippingMan,FALSE,Payroll Analyst
+1a2c3b4e,Anna Ward,award,Accounting,ExpenseRep,FALSE,Tax Director
+1a2c3c4a,Stephen Torres,storres,Finance,OrderEntry,FALSE,Financial Reporting Manager
+1a2c3c4b,Rebecca Peterson,rpeterson,Finance,HR-SAP,FALSE,Financial Analyst
+1a2c3c4e,Raymond James,rjames,Finance,OracleFinancials,FALSE,Financial Systems Manager
+1a2c3d4a,Kathleen Watson,kwatson,Finance,PartnerEnablement,TRUE,Financial Systems Analyst
+1a2c3d4b,Gregory Brooks,brooks,Finance,BenefitsPortal,FALSE,Internal Audit Manager
+1a2c3d4e,Martha Price,mprice,Finance,AccountMan,FALSE,Internal Auditor
+1b,Jerry Bennett,jbennett,Executive Management,CRMPortal,FALSE,
+1b2a,Debra Wood,dwood,Regional Operations,IT-SVN,FALSE,
+1b2b,Dennis Barnes,dbarnes,Regional Operations,Hiring,FALSE,
+1b2c,Amanda Ross,aross,Regional Operations,AuditReports,FALSE,
+1b2a3a,Walter Henderson,whenderson,Information Technology,AccountPay,FALSE,Windows Administrator
+1b2a3b,Stephanie Coleman,scoleman,Information Technology,AccountRec,FALSE,Telecommunications and Network Manager
+1b2a3c,Patrick Jenkins,pjenkins,Engineering,ShippingMan,FALSE,Staging Developer
+1b2a3d,Carolyn Perry,cperry,Engineering,ExpenseRep,FALSE,Staging Test Engineer
+1b2b3a,Peter Powell,ppowell,Human Resources,OrderEntry,FALSE,Training and Development Specialist
+1b2b3b,Christine Long,clong,Human Resources,HR-SAP,FALSE,
+1b2b3c,Harold Patterson,hpatterson,Inventory,OracleFinancials,FALSE,Purchasing Associate
+1b2b3d,Marie Hughes,mhughes,Inventory,PartnerEnablement,FALSE,
+1b2c3a,Douglas Flores,dflores,Accounting,BenefitsPortal,FALSE,Tax Manager
+1b2c3b,Janet Washington,jwashington,Accounting,AccountMan,FALSE,Tax Accountant
+1b2c3c,Henry Butler,hbutler,Finance,CRMPortal,FALSE,Treasury Director
+1b2c3d,Catherine Simmons,csimmons,Finance,IT-SVN,FALSE,Treasury Manager
+1b2a3a4a,Carl Foster,cfoster,Information Technology,Hiring,FALSE,Data Communications Analyst
+1b2a3a4b,Frances Gonzales,fgonzales,Information Technology,AuditReports,FALSE,Network Systems Administrator
+1b2a3a4e,Ryan Russell,rrussell,Information Technology,AccountPay,FALSE,Information Security Manager
+1b2a3b4a,Joyce Griffin,jgriffin,Information Technology,AccountRec,FALSE,Information Security Analyst
+1b2a3b4b,Roger Diaz,rdiaz,Information Technology,ShippingMan,FALSE,RACF Security Administrator
+1b2a3b4e,Alice Ford,aford,Information Technology,ExpenseRep,FALSE,Security Architect
+1b2a3c4a,Juan Hamilton,jhamilton,Engineering,OrderEntry,FALSE,
+1b2a3c4b,Julie Graham,jgraham,Engineering,HR-SAP,FALSE,
+1b2a3c4e,Albert Woods,awoods,Engineering,OracleFinancials,FALSE,
+1b2a3d4a,Teresa Cole,tcole,Engineering,PartnerEnablement,TRUE,
+1b2a3d4b,Jonathan West,jwest,Engineering,BenefitsPortal,FALSE,
+1b2a3d4e,Gloria Reynolds,greynolds,Engineering,AccountMan,FALSE
+1b2b3a4a,Terry Fisher,tfisher,Human Resources,CRMPortal,FALSE
+1b2b3a4b,Evelyn Ellis,eellis,Human Resources,IT-SVN,FALSE
+1b2b3a4e,Keith Mcdonald,kmcdonald,Human Resources,Hiring,FALSE
+1b2b3b4a,Cheryl Cruz,ccruz,Human Resources,AuditReports,FALSE
+1b2b3b4b,Samuel Marshall,smarshall,Human Resources,AccountPay,FALSE
+1b2b3b4e,Katherine Murray,kmurray,Human Resources,AccountRec,FALSE
+1b2b3c4a,Ralph Freeman,rfreeman,Inventory,ShippingMan,FALSE
+1b2b3c4b,Joan Wells,jwells,Inventory,ExpenseRep,FALSE
+1b2b3c4e,Nicholas Stevens,nstevens,Inventory,OrderEntry,FALSE
+1b2b3d4a,Judith Tucker,jtucker,Inventory,HR-SAP,TRUE
+1b2b3d4b,Roy Porter,rporter,Inventory,OracleFinancials,FALSE
+1b2b3d4e,Janice Crawford,jcrawford,Inventory,PartnerEnablement,FALSE
+1b2c3a4a,Bruce Henry,bhenry,Accounting,BenefitsPortal,FALSE
+1b2c3a4b,Kelly Boyd,kboyd,Accounting,AccountMan,FALSE
+1b2c3a4e,Adam Kennedy,akennedy,Accounting,CRMPortal,FALSE
+1b2c3b4a,Judy Warren,jwarren,Accounting,IT-SVN,FALSE,
+1b2c3b4b,Harry Dixon,hdixon,Accounting,Hiring,FALSE,
+1b2c3b4e,Kathy Burns,kburns,Accounting,AuditReports,FALSE,
+1b2c3c4a,Wayne Gordon,wgordon,Finance,AccountPay,FALSE,Treasury Analyst
+1b2c3c4b,Theresa Shaw,tshaw,Finance,AccountRec,FALSE,Treasury Currency Analyst
+1b2c3c4e,Steve Robertson,srobertson,Finance,ShippingMan,FALSE,Treasury Hedging Specialist
+1b2c3d4a,Denise Hunt,dhunt,Finance,ExpenseRep,TRUE,
+1b2c3d4b,Louis Black,lblack,Finance,OrderEntry,FALSE,
+1b2c3d4e,Irene Mills,imills,Finance,HR-SAP,FALSE,
+1c,Aaron Nichols,anichols,Executive Management,OracleFinancials,FALSE,
+1c2a,Jane Grant,jgrant,Regional Operations,PartnerEnablement,FALSE,
+1c2b,Randy Knight,rknight,Regional Operations,BenefitsPortal,FALSE,
+1c2c,Lori Ferguson,lferguson,Regional Operations,AccountMan,FALSE,
+1c2a3a,Howard Rose,hrose,Information Technology,CRMPortal,FALSE,Oracle DBAs
+1c2a3b,Rachel Stone,rstone,Information Technology,IT-SVN,FALSE,
+1c2a3c,Eugene Hawkins,ehawkins,Engineering,Hiring,FALSE,
+1c2a3d,Marilyn Dunn,mdunn,Engineering,AuditReports,FALSE
+1c2b3a,Carlos Perkins,cperkins,Human Resources,AccountPay,FALSE
+1c2b3b,Andrea Hudson,ahudson,Human Resources,AccountRec,FALSE
+1c2b3c,Russell Spencer,rspencer,Inventory,ShippingMan,FALSE
+1c2b3d,Kathryn Gardner,kgardner,Inventory,ExpenseRep,FALSE
+1c2c3a,Bobby Stephens,bstephens,Accounting,OrderEntry,FALSE
+1c2c3b,Louise Payne,lpayne,Accounting,HR-SAP,FALSE
+1c2c3c,Victor Pierce,vpierce,Finance,OracleFinancials,FALSE
+1c2c3d,Sara Berry,sberry,Finance,PartnerEnablement,FALSE
+1c2a3a4a,Martin Matthews,mmatthews,Information Technology,BenefitsPortal,FALSE
+1c2a3a4b,Anne Arnold,aarnold,Information Technology,AccountMan,FALSE
+1c2a3a4e,Phillip Ray,pray,Information Technology,CRMPortal,FALSE
+1c2a3b4a,Wanda Watkins,waatkins,Information Technology,IT-SVN,FALSE
+1c2a3b4b,Todd Olson,tolson,Information Technology,Hiring,FALSE
+1c2a3b4e,Julia Snyder,jsynder,Information Technology,AuditReports,FALSE
+1c2a3c4a,Craig Hart,chart,Engineering,AccountPay,FALSE
+1c2a3c4b,Ruby Cunningham,rcunningham,Engineering,AccountRec,FALSE
+1c2a3c4e,Shawn Andrews,sandrews,Engineering,ShippingMan,FALSE
+1c2a3d4a,Tina Ruiz,truiz,Engineering,ExpenseRep,TRUE
+1c2a3d4b,Clarence Harper,charper,Engineering,OrderEntry,FALSE
+1c2a3d4e,Norma Armstrong,narmstrong,Engineering,HR-SAP,FALSE
+1c2b3a4a,Philip Carpenter,pcarpenter,Human Resources,OracleFinancials,FALSE
+1c2b3a4b,Paula Weaver,pweaver,Human Resources,PartnerEnablement,FALSE
+1c2b3a4e,Johnny Elliott,jelliott,Human Resources,BenefitsPortal,FALSE
+1c2b3b4a,Annie Chavez,achavez,Human Resources,AccountMan,FALSE
+1c2b3b4b,Earl Sims,esims,Human Resources,CRMPortal,FALSE
+1c2b3b4e,Emily Kelley,ekelley,Human Resources,IT-SVN,FALSE
+1c2b3c4a,Antonio Franklin,afranklin,Inventory,Hiring,FALSE
+1c2b3c4b,Robin Lawson,rlawson,Inventory,AuditReports,FALSE
+1c2b3c4e,Bryan Ryan,bryan,Inventory,AccountPay,FALSE
+1c2b3d4a,Crystal Schmidt,cshmidt,Inventory,AccountRec,TRUE
+1c2b3d4b,Tony Carr,tcarr,Inventory,ShippingMan,FALSE
+1c2b3d4e,Rita Wheeler,rwheeler,Inventory,ExpenseRep,FALSE
+1c2c3a4a,Mike Chapman,mchapman,Accounting,OrderEntry,FALSE
+1c2c3a4b,Dawn Oliver,doliver,Accounting,HR-SAP,FALSE
+1c2c3a4e,Leonard Williamson,lwilliamson,Accounting,OracleFinancials,FALSE
+1c2c3b4a,Florence Johnston,fjohnston,Accounting,PartnerEnablement,FALSE
+1c2c3b4b,Nathan Banks,nbanks,Accounting,BenefitsPortal,FALSE
+1c2c3b4e,Edna Mccoy,emccoy,Accounting,AccountMan,FALSE
+1c2c3c4a,Manuel Howell,mhowell,Finance,CRMPortal,FALSE
+1c2c3c4b,Tiffany Alvarez,talvarez,Finance,IT-SVN,FALSE
+1c2c3c4e,Curtis Fernandez,cfernandez,Finance,Hiring,FALSE
+1c2c3d4a,Rosa Garza,rgarza,Finance,AuditReports,TRUE
+1c2c3d4b,Norman Harvey,nharvey,Finance,AccountPay,FALSE
+1c2c3d4e,Grace Stanley,gstanley,Finance,AccountRec,FALSE
+
+
+
+
